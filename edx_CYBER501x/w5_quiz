@@ -8,7 +8,7 @@ They have different IP addresses
 They have different logons
 
 UNIT QUIZ: Question 2
-Common server services use:
+DHCP and FTP servers listen for and send network traffic on:
 *Well Known Ports
 Registered Ports
 Dynamic Ports
@@ -48,8 +48,8 @@ A switch
 *A PC
 
 UNIT QUIZ: Question 8
-If a router doesn’t know where a destination network is, the router may: (Select all that apply)
-*Use a default route, if available
+If a router doesn’t know where a destination network is, and there is no default route, the router will: (Select 2)
+Use a default route, if available
 Send an ARP
 *Drop the packet
 *Send an ICMP error message back to the source
